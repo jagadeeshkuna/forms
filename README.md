@@ -1,6 +1,6 @@
 # forms
 
-## Project setup
+## Project install
 ```
 npm install
 ```
